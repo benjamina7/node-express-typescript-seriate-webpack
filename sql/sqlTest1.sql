@@ -1,0 +1,1 @@
+SELECT TOP 1 SomeColumn1 FROM SomeTable1 WHERE SomeColumn1 LIKE '%' + @var1 + '%'
